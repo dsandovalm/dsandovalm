@@ -2,15 +2,23 @@
 
 19 • 🇨🇴
 
-📌 Actualmente en: Bogotá, Colombia
+**✨** 
+- Javascript / Typescript
+- HTML y CSS
+- Python
 
-Frontend developer • Estudiante de Ingenieria • Ilustradora
+**⛰**
+- qGIS
+- AutoCAD
+- Lisp
 
+**🖋**
+- Ilustración digital
+- Autodesk Sketchbook
+- Inkscape
+- Gimp
 
-- ✨ Javascript / Typescript
-- Ilustración
-- SIG
-
+📌 Bogotá, Colombia
 
 <!--- 
 ☼☽☾★☆⭐︎♝♞⚅⚄⚃⚂⚁⚀♙♋︎✦✧🂤🂥🂦🂧🂨🂩🂪🂫☗☖⚉⚈⚇⚆❖❃✘✗✓✔︎❥⌘⌀⎇⎈⌚︎⌛︎⍀⌿⍀⍀⍁⍂⍃⍌⌼⌻⌾⌬⍫ℳ🇨🇴♋️🔫🛤✨🦀🐝🐇🌙
