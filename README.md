@@ -1,9 +1,13 @@
 # Hey :)
 
 19 • 🇨🇴
+
 📌  Bogotá, Colombia
+
 ✨ Javascript || Python
+
 ⛰ Ingeniería civil a medias
+
 🖋 Ilustración digital 
 
 ***
@@ -13,6 +17,12 @@
 A **Python** me acerqué haciendo scripts pequeños para programas como Blender o qGIS y uno que otro curso.
 
 He programado a ratos como pasatiempo, o para facilitarme tareas durante el colegio y la universidad, hasta mi experiencia en el Bootcamp de Laboratoria que pude poner los pies sobre la tierra y decidir que esto es a lo que me quiero dedicar.
+
+***
+
+¿Quieres saber más sobre mi?
+
+✉️ [Escribeme!](mailto:dsandovalm@unal.edu.co)
 
 <!--- 
 ACAD - Autolisp
