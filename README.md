@@ -2,13 +2,10 @@
 
 19 • 🇨🇴
 
-📌  Bogotá, Colombia
-
-✨ Javascript || Python
-
-⛰ Ingeniería civil a medias
-
-🖋 Ilustración digital 
+- 📌  Bogotá, Colombia
+- ✨ Javascript || Python
+- ⛰ Ingeniería civil
+- 🖋 Ilustración digital 
 
 ***
 
