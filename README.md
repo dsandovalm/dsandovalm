@@ -2,10 +2,10 @@
 
 20 • 🇨🇴
 
-- 📌  Bogotá, Colombia
-- ✨ Javascript || Python
-- ⛰ Ingeniería civil
-- 🖋 Ilustración digital 
+📌   • Bogotá, Colombia
+✨   • Javascript || Python
+⛰   • Ingeniería civil
+🖋   • Ilustración digital 
 
 * * *
 ![Soy yo!](./avatar_git.png)
