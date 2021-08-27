@@ -8,7 +8,7 @@
 - 🖋 Ilustración digital 
 
 * * *
-![./avatar_git.png](Soy yo!)
+![Soy yo!](./avatar_git.png)
 * * *
 
 ✨ Inicié con **HTML**, **CSS** y **Javascript** hace ya unos 5 años, me volvi a enamorar de la programación un par de años después durante la universidad, donde también aprendí de **Typescript** y patrones de diseño. 
