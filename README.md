@@ -3,9 +3,17 @@
 20 • 🇨🇴
 
 📌   • Bogotá, Colombia
-✨   • Javascript || Python
+
+✨   • Frontend Developer
+
 ⛰   • Ingeniería civil
+
 🖋   • Ilustración digital 
+
+
+Javascript || Typescript || Angular || NodeJS
+
+Python
 
 * * *
 ![Soy yo!](./avatar_git.png)
