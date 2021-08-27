@@ -1,15 +1,16 @@
 # Hey :)
 
-20 • 🇨🇴
+## 20 • 🇨🇴  • TS Lover
 
 📌   • Bogotá, Colombia
 
-✨   • Frontend Developer
+✨   • Desarrollo Frontend
 
 ⛰   • Ingeniería civil
 
 🖋   • Ilustración digital 
 
+## Lenguajes y Tecnologías
 
 Javascript || Typescript || Angular || NodeJS
 
